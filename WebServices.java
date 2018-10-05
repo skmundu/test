@@ -10,6 +10,8 @@ System.out.println("This is a test1 This change is made in Feature branch ");
 System.out.println("This is a test1");
 *** This change is done in Feature branch****
 >>>>>>> feature
+
+*********************
 }
 
 }
